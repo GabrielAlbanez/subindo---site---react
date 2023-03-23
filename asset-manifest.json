@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subindo---site---react/static/css/main.769751c2.css",
+    "main.js": "/subindo---site---react/static/js/main.16048391.js",
+    "static/js/787.29cd0c71.chunk.js": "/subindo---site---react/static/js/787.29cd0c71.chunk.js",
+    "index.html": "/subindo---site---react/index.html",
+    "main.769751c2.css.map": "/subindo---site---react/static/css/main.769751c2.css.map",
+    "main.16048391.js.map": "/subindo---site---react/static/js/main.16048391.js.map",
+    "787.29cd0c71.chunk.js.map": "/subindo---site---react/static/js/787.29cd0c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.769751c2.css",
+    "static/js/main.16048391.js"
+  ]
+}
